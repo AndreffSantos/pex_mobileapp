@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "pex_mobileapp",
-    "slug": "pex_mobileapp"
+    "slug": "pex_mobileapp",
+    "extra": {
+      "eas": {
+        "projectId": "cabce4e1-1092-4050-a36f-9b0a05a19fff"
+      }
+    },
+    "android": {
+      "package": "com.andref_santos.pex_mobileapp"
+    }
   }
 }
